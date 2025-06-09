@@ -15,13 +15,10 @@ Here's a quick overview of the tools and technologies I work with:
 - ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client
 - 📦 **Package Managers**: NPM
 
-
-
----
-
+- 
 ## 📈 GitHub Stats
 
-![Awais's GitHub Stats](https://github.com/Awais-Ishaq-Ai)
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=tru
 
 ---
 
