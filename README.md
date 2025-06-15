@@ -15,7 +15,7 @@ Here's a quick overview of the tools and technologies I work with:
 - ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client  
 - 📦 **Package Managers**: NPM  
 
-![image](https://github.com/user-attachments/assets/70a8c552-35c9-4ddd-8b48-f897d70458f4)
+
 
 ![Tech Stack](images/tech-stack.png)
 
