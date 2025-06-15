@@ -16,8 +16,8 @@ Here's a quick overview of the tools and technologies I work with:
 - 📦 **Package Managers**: NPM  
 
 
+![image](https://github.com/user-attachments/assets/49fff2ef-f2ca-40ec-b261-20357b98f41b) ![image](https://github.com/user-attachments/assets/67a0e1b3-22e2-49d3-b1d3-5f5e4e1df6ec)  
 
-![Tech Stack](images/tech-stack.png)
 
 ---
 
